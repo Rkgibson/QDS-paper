@@ -2,7 +2,7 @@ We start by setting up a new Do-file (`Ctrl+9` or `doedit`)
 or by re-using an old one, then we adjust our settings and load the dataset.
 */
 	
-version 17 // tells stata on which version it should interpret commands on
+version 14 // tells stata on which version it should interpret commands on
 
 clear // removes data and value labels from memory
 
